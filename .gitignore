@@ -1,0 +1,6 @@
+__pycache__/
+.idea
+resources/*
+
+!resources/tests/projects_test.xlsx
+!resources/projects.xlsx

@@ -1,0 +1,13 @@
+[project]
+name = "capitally-constrained-portfolio-simulation"
+version = "1.1.0"
+description = "A project management simulation tool for portfolios."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "black>=25.1.0",
+    "openpyxl>=3.1.5",
+    "pandas>=2.2.3",
+    "pandas-stubs>=2.2.3.250527",
+    "pytest>=8.4.1",
+]
